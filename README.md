@@ -35,4 +35,4 @@ This project follows the design guidelines outlined in the `style-guide.md` file
 
 ## Author
 
-Maxmillin
+Francis Irungu
